@@ -1,0 +1,959 @@
+Afsluiter ASGSYNGA van = VIS0546A naar = VIS0546B stand = open
+Afsluiter S5536/08 van = S-5536B naar = S-5536C stand = open
+Afsluiter S5624/19 van = P230 naar = S-5624C stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 stand = dicht
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 1 vargroep = ODO-NODO pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 2 vargroep = NETWERK_10 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 3 vargroep = NETWERK_11 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 4 vargroep = NETWERK_12 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 5 vargroep = NETWERK_13 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 6 vargroep = NETWERK_22 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 7 vargroep = NETWERK_23 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 8 vargroep = NETWERK_24 pin = ja pinclr = 11 stand = open
+Afsluiter SYS00001 van = S-5561B naar = R2_003 variant = 9 vargroep = NETWERK_25 pin = ja pinclr = 11 stand = open
+Elempunt SYS00001 xco = -168 yco = -40
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B stand = open
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 1 vargroep = ODO-NODO pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 2 vargroep = NETWERK_10 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 3 vargroep = NETWERK_11 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 4 vargroep = NETWERK_12 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 5 vargroep = NETWERK_13 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 6 vargroep = NETWERK_22 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 7 vargroep = NETWERK_23 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 8 vargroep = NETWERK_24 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00003 van = SYS00002 naar = S-5561B variant = 9 vargroep = NETWERK_25 pin = ja pinclr = 11 stand = dicht
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 stand = dicht
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 1 vargroep = NETWERK_3 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 2 vargroep = NETWERK_4 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 3 vargroep = NETWERK_5 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 4 vargroep = NETWERK_7 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 5 vargroep = NETWERK_8 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 6 vargroep = NETWERK_9 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 11 vargroep = NETWERK_14 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 12 vargroep = NETWERK_15 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 13 vargroep = NETWERK_16 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 14 vargroep = NETWERK_17 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 15 vargroep = NETWERK_18 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 16 vargroep = NETWERK_19 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 17 vargroep = NETWERK_20 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 18 vargroep = NETWERK_21 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 19 vargroep = NETWERK_11 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 20 vargroep = NETWERK_12 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 21 vargroep = NETWERK_13 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 22 vargroep = NETWERK_22 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 23 vargroep = NETWERK_23 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 24 vargroep = NETWERK_24 stand = open
+Afsluiter SYS00004 van = BAL_H naar = SYS00014 variant = 25 vargroep = NETWERK_25 stand = open
+Elempunt SYS00004 xco = -42 yco = -59
+Afsluiter SYS00005 van = H_002 naar = S-826B stand = open
+Elempunt SYS00005 xco = -95 yco = -76
+Afsluiter SYS00009 van = W1_004 naar = HW_007 stand = dicht
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 1 vargroep = NETWERK_3 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 2 vargroep = NETWERK_4 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 3 vargroep = NETWERK_5 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 4 vargroep = NETWERK_7 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 5 vargroep = NETWERK_8 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 6 vargroep = NETWERK_9 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 11 vargroep = NETWERK_14 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 12 vargroep = NETWERK_15 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 13 vargroep = NETWERK_16 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 14 vargroep = NETWERK_17 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 15 vargroep = NETWERK_18 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 16 vargroep = NETWERK_19 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 17 vargroep = NETWERK_20 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 18 vargroep = NETWERK_21 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 19 vargroep = NETWERK_11 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 20 vargroep = NETWERK_12 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 21 vargroep = NETWERK_13 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 22 vargroep = NETWERK_22 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 23 vargroep = NETWERK_23 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 24 vargroep = NETWERK_24 stand = open
+Afsluiter SYS00009 van = W1_004 naar = HW_007 variant = 25 vargroep = NETWERK_25 stand = open
+Elempunt SYS00009 xco = -229 -221 yco = -71 -92
+Berging BAL_H punt = BAL_H hv = 29.7 priomin = 1
+Elempunt BAL_H xco = -75 yco = -30
+Berging BAL_M punt = BAL_M priomin = 1 priomax = 1
+Elempunt BAL_M xco = -56 yco = -75
+Berging H_001 punt = H_001
+Elempunt H_001 xco = -88 yco = -78
+Berging H_002 punt = H_002
+Elempunt H_002 xco = -96 yco = -73
+Berging H_003 punt = H_003
+Elempunt H_003 xco = -94 yco = -73
+Berging H_004 punt = H_004
+Elempunt H_004 xco = -115 yco = -86
+Berging H_005 punt = H_005
+Elempunt H_005 xco = -116 yco = -93
+Berging H_006 punt = H_006
+Elempunt H_006 xco = -164 yco = -81
+Berging H_007 punt = H_007
+Elempunt H_007 xco = -179 yco = -81
+Berging H_008 punt = H_008
+Elempunt H_008 xco = -208 yco = -78
+Berging H_009 punt = H_009
+Elempunt H_009 xco = -209 yco = -87
+Berging HW_001 punt = HW_001 hv = 29.7
+Elempunt HW_001 xco = -87 yco = -95
+Berging HW_002 punt = HW_002 hv = 29.7
+Elempunt HW_002 xco = -95 yco = -95
+Berging HW_003 punt = HW_003 hv = 29.7
+Elempunt HW_003 xco = -96 yco = -95
+Berging HW_004 punt = HW_004 hv = 29.7
+Elempunt HW_004 xco = -116 yco = -95
+Berging HW_005 punt = HW_005 hv = 29.7
+Elempunt HW_005 xco = -118 yco = -95
+Berging HW_006 punt = HW_006 hv = 29.7
+Elempunt HW_006 xco = -166 yco = -95
+Berging HW_007 punt = HW_007 hv = 29.7
+Elempunt HW_007 xco = -195 yco = -95
+Berging R1_001 punt = R1_001
+Elempunt R1_001 xco = -124 yco = -58
+Berging R1_002 punt = R1_002
+Elempunt R1_002 xco = -126 yco = -56
+Berging R1_003 punt = R1_003
+Elempunt R1_003 xco = -135 yco = -58
+Berging R1_004 punt = R1_004
+Elempunt R1_004 xco = -152 yco = -56
+Berging R1_005 punt = R1_005
+Elempunt R1_005 xco = -165 yco = -57
+Berging R2_001 punt = R2_001
+Elempunt R2_001 xco = -74 yco = -40
+Berging R2_002 punt = R2_002
+Elempunt R2_002 xco = -106 yco = -41
+Berging R2_003 punt = R2_003
+Elempunt R2_003 xco = -123 yco = -39
+Berging R2_004 punt = R2_004
+Elempunt R2_004 xco = -173 yco = -41
+Berging R2_005 punt = R2_005
+Elempunt R2_005 xco = -188 yco = -41
+Berging R2_006 punt = R2_006
+Elempunt R2_006 xco = -201 yco = -41
+Berging R2_007 punt = R2_007
+Elempunt R2_007 xco = -213 yco = -41
+Berging R3_001 punt = R3_001
+Elempunt R3_001 xco = -82 yco = -42
+Berging R3_002 punt = R3_002
+Elempunt R3_002 xco = -120 yco = -41
+Berging R3_003 punt = R3_003
+Elempunt R3_003 xco = -138 yco = -43
+Berging R3_004 punt = R3_004
+Elempunt R3_004 xco = -158 yco = -41
+Berging R3_005 punt = R3_005
+Elempunt R3_005 xco = -165 yco = -41
+Berging RK_BAL_H punt = BAL_H priomin = 500 priomax = 500 vrijinzetbaar = ja dmmin = 1 dmgem = 0 dmmax = 1
+Elempunt RK_BAL_H xco = -76 yco = -32
+Berging RK_BAL_M punt = BAL_M priomin = 500 priomax = 500 vrijinzetbaar = ja dmmin = 1 dmgem = 0 dmmax = 1
+Elempunt RK_BAL_M xco = -56 yco = -73
+Berging W1_001 punt = W1_001 hv = 29.7
+Elempunt W1_001 xco = -149 yco = -33
+Berging W1_002 punt = W1_002 hv = 29.7
+Elempunt W1_002 xco = -171 yco = -30
+Berging W1_003 punt = W1_003 hv = 29.7
+Elempunt W1_003 xco = -191 yco = -32
+Berging W1_004 punt = W1_004 hv = 29.7
+Elempunt W1_004 xco = -213 yco = -30
+Leiding A-DVRTL van = S-678B naar = S-113C lengte = 0.001 diameter = 1 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding A555E van = BAL_M naar = S-243 lengte = 11.58 diameter = 1.04 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A555F van = S-243 naar = S-488B lengte = 4.11 diameter = 1.04 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559-01A van = H_002 naar = H_003 lengte = 0.07 diameter = 0.44 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559-01B van = H_003 naar = S-113A lengte = 1.49 diameter = 0.44 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt A559-01B xco = -95 yco = -65
+Leiding A559-08A van = S-303 naar = EUR lengte = 1.28 diameter = 0.39 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559-08B van = EUR naar = H_001 lengte = 0.24 diameter = 0.39 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559A van = S-488B naar = S-731 lengte = 3.6 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559B van = S-731 naar = S-558 lengte = 7.22 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559C van = S-558 naar = S-303 lengte = 5.68 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A559D van = S-303 naar = H_002 lengte = 1.89 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-02 van = S-686B naar = H_007 lengte = 4 diameter = 0.44 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-08A van = H_008 naar = S-852 lengte = 2.03 diameter = 0.11 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-10C van = S-852 naar = VIS-0452 lengte = 0.15 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-10D van = VIS-0452 naar = S-875 lengte = 1.33 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-10E van = S-875 naar = S-686C lengte = 1.39 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-10F van = S-686C naar = S-489B lengte = 3.84 diameter = 0.31 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-13A van = VIS-0123 naar = S-888 lengte = 0.04 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-13B van = S-888 naar = S-879A lengte = 3.93 diameter = 0.49 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-14 van = S-888 naar = H_004 lengte = 0.4 diameter = 0.21 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-15A van = S-879A naar = S-862 lengte = 0.03 diameter = 0.26 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-15B van = S-862 naar = S-885 lengte = 0.16 diameter = 0.21 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-15C van = S-885 naar = S-884 lengte = 0.04 diameter = 0.26 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-15D van = S-884 naar = H_005 lengte = 0.09 diameter = 0.21 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-18 van = VIS-0237 naar = S-868 lengte = 2.87 diameter = 1.19 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-19A van = S-868 naar = VIS-0245 lengte = 1.32 diameter = 0.89 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-19B van = VIS-0245 naar = S-877 lengte = 1.96 diameter = 0.89 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624-20 van = S-877 naar = H_006 lengte = 0.47 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624A van = H_009 naar = S-677A lengte = 1.44 diameter = 0.89 qmin = -1850 qmax = 1850 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624B van = S-677A naar = S-797 lengte = 0.27 diameter = 0.89 qmin = -1850 qmax = 1850 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624C van = S-797 naar = S-025 lengte = 3.22 diameter = 0.89 qmin = -1850 qmax = 1850 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624D van = S-025 naar = S-021 lengte = 1.34 diameter = 0.89 qmin = -1850 qmax = 1850 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624E van = S-021 naar = S-686B lengte = 1.32 diameter = 0.89 qmin = -1850 qmax = 1850 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624F van = S-686B naar = VIS-0237 lengte = 6.58 diameter = 0.89 qmin = -1800 qmax = 1800 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624G van = VIS-0237 naar = VIS-0123 lengte = 19.01 diameter = 0.89 qmin = -1800 qmax = 1800 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624H van = VIS-0123 naar = S-861A lengte = 1.62 diameter = 0.89 qmin = -1700 qmax = 1700 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt A624H xco = -117 yco = -84
+Leiding A624I van = S-861A naar = S-678A lengte = 1.32 diameter = 0.89 qmin = -1700 qmax = 1700 tarplus = 100 tarmin = 100 boete = 1000
+Leiding A624J van = S-678A naar = S-826B lengte = 0.95 diameter = 0.89 qmin = -1700 qmax = 1700 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 lengte = 7.5 diameter = 0.58 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 1 vargroep = NETWERK_6 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 2 vargroep = NETWERK_7 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 3 vargroep = NETWERK_8 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 4 vargroep = NETWERK_9 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 5 vargroep = NETWERK_18 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 6 vargroep = NETWERK_19 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 7 vargroep = NETWERK_20 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 8 vargroep = NETWERK_21 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 9 vargroep = NETWERK_10 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 10 vargroep = NETWERK_11 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 11 vargroep = NETWERK_12 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 12 vargroep = NETWERK_13 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 13 vargroep = NETWERK_22 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 14 vargroep = NETWERK_23 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 15 vargroep = NETWERK_24 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding BPEUP van = W1_003 naar = W1_002 variant = 16 vargroep = NETWERK_25 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 lengte = 7.5 diameter = 0.58 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 1 vargroep = NETWERK_6 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 2 vargroep = NETWERK_7 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 3 vargroep = NETWERK_8 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 4 vargroep = NETWERK_9 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 5 vargroep = NETWERK_18 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 6 vargroep = NETWERK_19 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 7 vargroep = NETWERK_20 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 8 vargroep = NETWERK_21 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 9 vargroep = NETWERK_10 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 10 vargroep = NETWERK_11 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 11 vargroep = NETWERK_12 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 12 vargroep = NETWERK_13 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 13 vargroep = NETWERK_22 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 14 vargroep = NETWERK_23 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 15 vargroep = NETWERK_24 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding EUPPER van = W1_002 naar = W1_001 variant = 16 vargroep = NETWERK_25 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 lengte = 6.58 diameter = 0.89 qmin = -500 qmax = 500 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 1 vargroep = NETWERK_3 lengte = 6.58 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 2 vargroep = NETWERK_4 lengte = 6.58 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 3 vargroep = NETWERK_5 lengte = 6.58 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 4 vargroep = NETWERK_7 lengte = 6.58 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 5 vargroep = NETWERK_8 lengte = 6.58 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 6 vargroep = NETWERK_9 lengte = 6.58 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 11 vargroep = NETWERK_14 lengte = 6.58 diameter = 0.89 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 12 vargroep = NETWERK_15 lengte = 6.58 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 13 vargroep = NETWERK_16 lengte = 6.58 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 14 vargroep = NETWERK_17 lengte = 6.58 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 15 vargroep = NETWERK_18 lengte = 6.58 diameter = 0.89 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 16 vargroep = NETWERK_19 lengte = 6.58 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 17 vargroep = NETWERK_20 lengte = 6.58 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 18 vargroep = NETWERK_21 lengte = 6.58 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 19 vargroep = NETWERK_11 lengte = 6.58 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 20 vargroep = NETWERK_12 lengte = 6.58 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 21 vargroep = NETWERK_13 lengte = 6.58 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 22 vargroep = NETWERK_22 lengte = 6.58 diameter = 0.89 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 23 vargroep = NETWERK_23 lengte = 6.58 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 24 vargroep = NETWERK_24 lengte = 6.58 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW1 van = HW_007 naar = HW_006 variant = 25 vargroep = NETWERK_25 lengte = 6.58 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 lengte = 19.01 diameter = 0.89 qmin = -500 qmax = 500 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 1 vargroep = NETWERK_3 lengte = 19.01 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 2 vargroep = NETWERK_4 lengte = 19.01 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 3 vargroep = NETWERK_5 lengte = 19.01 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 4 vargroep = NETWERK_7 lengte = 19.01 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 5 vargroep = NETWERK_8 lengte = 19.01 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 6 vargroep = NETWERK_9 lengte = 19.01 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 11 vargroep = NETWERK_14 lengte = 19.01 diameter = 0.89 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 12 vargroep = NETWERK_15 lengte = 19.01 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 13 vargroep = NETWERK_16 lengte = 19.01 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 14 vargroep = NETWERK_17 lengte = 19.01 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 15 vargroep = NETWERK_18 lengte = 19.01 diameter = 0.89 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 16 vargroep = NETWERK_19 lengte = 19.01 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 17 vargroep = NETWERK_20 lengte = 19.01 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 18 vargroep = NETWERK_21 lengte = 19.01 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 20 vargroep = NETWERK_11 lengte = 19.01 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 21 vargroep = NETWERK_12 lengte = 19.01 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 22 vargroep = NETWERK_13 lengte = 19.01 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 23 vargroep = NETWERK_22 lengte = 19.01 diameter = 0.89 qmin = -500 qmax = 500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 24 vargroep = NETWERK_23 lengte = 19.01 diameter = 0.89 qmin = -1500 qmax = 1500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 25 vargroep = NETWERK_24 lengte = 19.01 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW2 van = HW_006 naar = HW_005 variant = 26 vargroep = NETWERK_25 lengte = 19.01 diameter = 0.89 qmin = -2500 qmax = 2500 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 1 vargroep = NETWERK_3 lengte = 0.001 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 2 vargroep = NETWERK_4 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 3 vargroep = NETWERK_5 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 4 vargroep = NETWERK_7 lengte = 0.001 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 5 vargroep = NETWERK_8 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 6 vargroep = NETWERK_9 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 11 vargroep = NETWERK_14 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 12 vargroep = NETWERK_15 lengte = 0.001 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 13 vargroep = NETWERK_16 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 14 vargroep = NETWERK_17 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 15 vargroep = NETWERK_18 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 16 vargroep = NETWERK_19 lengte = 0.001 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 17 vargroep = NETWERK_20 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 18 vargroep = NETWERK_21 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 20 vargroep = NETWERK_11 lengte = 0.001 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 21 vargroep = NETWERK_12 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 22 vargroep = NETWERK_13 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 23 vargroep = NETWERK_22 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 24 vargroep = NETWERK_23 lengte = 0.001 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 25 vargroep = NETWERK_24 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW3 van = HW_005 naar = HW_004 variant = 26 vargroep = NETWERK_25 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 lengte = 1.32 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 1 vargroep = NETWERK_3 lengte = 1.32 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 2 vargroep = NETWERK_4 lengte = 1.32 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 3 vargroep = NETWERK_5 lengte = 1.32 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 4 vargroep = NETWERK_7 lengte = 1.32 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 5 vargroep = NETWERK_8 lengte = 1.32 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 6 vargroep = NETWERK_9 lengte = 1.32 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 11 vargroep = NETWERK_14 lengte = 1.32 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 12 vargroep = NETWERK_15 lengte = 1.32 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 13 vargroep = NETWERK_16 lengte = 1.32 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 14 vargroep = NETWERK_17 lengte = 1.32 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 15 vargroep = NETWERK_18 lengte = 1.32 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 16 vargroep = NETWERK_19 lengte = 1.32 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 17 vargroep = NETWERK_20 lengte = 1.32 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 18 vargroep = NETWERK_21 lengte = 1.32 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 20 vargroep = NETWERK_11 lengte = 1.32 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 21 vargroep = NETWERK_12 lengte = 1.32 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 22 vargroep = NETWERK_13 lengte = 1.32 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 23 vargroep = NETWERK_22 lengte = 1.32 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 24 vargroep = NETWERK_23 lengte = 1.32 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 25 vargroep = NETWERK_24 lengte = 1.32 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW4 van = HW_004 naar = SYS00006 variant = 26 vargroep = NETWERK_25 lengte = 1.32 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 lengte = 0.95 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 1 vargroep = NETWERK_3 lengte = 0.95 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 2 vargroep = NETWERK_4 lengte = 0.95 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 3 vargroep = NETWERK_5 lengte = 0.95 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 4 vargroep = NETWERK_7 lengte = 0.95 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 5 vargroep = NETWERK_8 lengte = 0.95 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 6 vargroep = NETWERK_9 lengte = 0.95 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 11 vargroep = NETWERK_14 lengte = 0.95 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 12 vargroep = NETWERK_15 lengte = 0.95 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 13 vargroep = NETWERK_16 lengte = 0.95 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 14 vargroep = NETWERK_17 lengte = 0.95 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 15 vargroep = NETWERK_18 lengte = 0.95 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 16 vargroep = NETWERK_19 lengte = 0.95 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 17 vargroep = NETWERK_20 lengte = 0.95 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 18 vargroep = NETWERK_21 lengte = 0.95 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 20 vargroep = NETWERK_11 lengte = 0.95 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 21 vargroep = NETWERK_12 lengte = 0.95 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 22 vargroep = NETWERK_13 lengte = 0.95 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 23 vargroep = NETWERK_22 lengte = 0.95 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 24 vargroep = NETWERK_23 lengte = 0.95 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 25 vargroep = NETWERK_24 lengte = 0.95 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5 van = SYS00006 naar = HW_003 variant = 26 vargroep = NETWERK_25 lengte = 0.95 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt HTL_HW5 xco = -98 yco = -94
+Leiding HTL_HW5A van = HW_003 naar = HW_002 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 1 vargroep = NETWERK_3 lengte = 0.001 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 2 vargroep = NETWERK_4 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 3 vargroep = NETWERK_5 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 4 vargroep = NETWERK_7 lengte = 0.001 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 5 vargroep = NETWERK_8 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 6 vargroep = NETWERK_9 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 11 vargroep = NETWERK_14 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 12 vargroep = NETWERK_15 lengte = 0.001 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 13 vargroep = NETWERK_16 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 14 vargroep = NETWERK_17 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 15 vargroep = NETWERK_18 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 16 vargroep = NETWERK_19 lengte = 0.001 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 17 vargroep = NETWERK_20 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 18 vargroep = NETWERK_21 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 20 vargroep = NETWERK_11 lengte = 0.001 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 21 vargroep = NETWERK_12 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 22 vargroep = NETWERK_13 lengte = 0.001 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 23 vargroep = NETWERK_22 lengte = 0.001 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 24 vargroep = NETWERK_23 lengte = 0.001 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 25 vargroep = NETWERK_24 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW5A van = HW_003 naar = HW_002 variant = 26 vargroep = NETWERK_25 lengte = 0.001 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 lengte = 1.89 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 1 vargroep = NETWERK_3 lengte = 1.89 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 2 vargroep = NETWERK_4 lengte = 1.89 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 3 vargroep = NETWERK_5 lengte = 1.89 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 4 vargroep = NETWERK_7 lengte = 1.89 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 5 vargroep = NETWERK_8 lengte = 1.89 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 6 vargroep = NETWERK_9 lengte = 1.89 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 11 vargroep = NETWERK_14 lengte = 1.89 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 12 vargroep = NETWERK_15 lengte = 1.89 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 13 vargroep = NETWERK_16 lengte = 1.89 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 14 vargroep = NETWERK_17 lengte = 1.89 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 15 vargroep = NETWERK_18 lengte = 1.89 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 16 vargroep = NETWERK_19 lengte = 1.89 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 17 vargroep = NETWERK_20 lengte = 1.89 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 18 vargroep = NETWERK_21 lengte = 1.89 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 20 vargroep = NETWERK_11 lengte = 1.89 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 21 vargroep = NETWERK_12 lengte = 1.89 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 22 vargroep = NETWERK_13 lengte = 1.89 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 23 vargroep = NETWERK_22 lengte = 1.89 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 24 vargroep = NETWERK_23 lengte = 1.89 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 25 vargroep = NETWERK_24 lengte = 1.89 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW6 van = HW_002 naar = HW_001 variant = 26 vargroep = NETWERK_25 lengte = 1.89 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 lengte = 5.68 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 1 vargroep = NETWERK_3 lengte = 5.68 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 2 vargroep = NETWERK_4 lengte = 5.68 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 3 vargroep = NETWERK_5 lengte = 5.68 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 4 vargroep = NETWERK_7 lengte = 5.68 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 5 vargroep = NETWERK_8 lengte = 5.68 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 6 vargroep = NETWERK_9 lengte = 5.68 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 11 vargroep = NETWERK_14 lengte = 5.68 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 12 vargroep = NETWERK_15 lengte = 5.68 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 13 vargroep = NETWERK_16 lengte = 5.68 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 14 vargroep = NETWERK_17 lengte = 5.68 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 15 vargroep = NETWERK_18 lengte = 5.68 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 16 vargroep = NETWERK_19 lengte = 5.68 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 17 vargroep = NETWERK_20 lengte = 5.68 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 18 vargroep = NETWERK_21 lengte = 5.68 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 20 vargroep = NETWERK_11 lengte = 5.68 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 21 vargroep = NETWERK_12 lengte = 5.68 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 22 vargroep = NETWERK_13 lengte = 5.68 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 23 vargroep = NETWERK_22 lengte = 5.68 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 24 vargroep = NETWERK_23 lengte = 5.68 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 25 vargroep = NETWERK_24 lengte = 5.68 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW7 van = HW_001 naar = SYS00007 variant = 26 vargroep = NETWERK_25 lengte = 5.68 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 lengte = 7.22 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 1 vargroep = NETWERK_3 lengte = 7.22 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 2 vargroep = NETWERK_4 lengte = 7.22 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 3 vargroep = NETWERK_5 lengte = 7.22 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 4 vargroep = NETWERK_7 lengte = 7.22 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 5 vargroep = NETWERK_8 lengte = 7.22 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 6 vargroep = NETWERK_9 lengte = 7.22 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 8 vargroep = NETWERK_11 lengte = 7.22 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 9 vargroep = NETWERK_12 lengte = 7.22 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 10 vargroep = NETWERK_13 lengte = 7.22 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 11 vargroep = NETWERK_14 lengte = 7.22 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 12 vargroep = NETWERK_15 lengte = 7.22 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 13 vargroep = NETWERK_16 lengte = 7.22 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 14 vargroep = NETWERK_17 lengte = 7.22 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 15 vargroep = NETWERK_18 lengte = 7.22 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 16 vargroep = NETWERK_19 lengte = 7.22 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 17 vargroep = NETWERK_20 lengte = 7.22 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 18 vargroep = NETWERK_21 lengte = 7.22 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 19 vargroep = NETWERK_22 lengte = 7.22 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 20 vargroep = NETWERK_23 lengte = 7.22 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 21 vargroep = NETWERK_24 lengte = 7.22 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW8 van = SYS00007 naar = SYS00008 variant = 22 vargroep = NETWERK_25 lengte = 7.22 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 lengte = 3.6 diameter = 0.89 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 1 vargroep = NETWERK_3 lengte = 3.6 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 2 vargroep = NETWERK_4 lengte = 3.6 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 3 vargroep = NETWERK_5 lengte = 3.6 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 4 vargroep = NETWERK_7 lengte = 3.6 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 5 vargroep = NETWERK_8 lengte = 3.6 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 6 vargroep = NETWERK_9 lengte = 3.6 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 8 vargroep = NETWERK_11 lengte = 3.6 diameter = 0.89 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 9 vargroep = NETWERK_12 lengte = 3.6 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 10 vargroep = NETWERK_13 lengte = 3.6 diameter = 0.89 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 11 vargroep = NETWERK_14 lengte = 3.6 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 12 vargroep = NETWERK_15 lengte = 3.6 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 13 vargroep = NETWERK_16 lengte = 3.6 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 14 vargroep = NETWERK_17 lengte = 3.6 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 15 vargroep = NETWERK_18 lengte = 3.6 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 16 vargroep = NETWERK_19 lengte = 3.6 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 17 vargroep = NETWERK_20 lengte = 3.6 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 18 vargroep = NETWERK_21 lengte = 3.6 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 19 vargroep = NETWERK_22 lengte = 3.6 diameter = 0.89 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 20 vargroep = NETWERK_23 lengte = 3.6 diameter = 0.89 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 21 vargroep = NETWERK_24 lengte = 3.6 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW9 van = SYS00008 naar = SYS00010 variant = 22 vargroep = NETWERK_25 lengte = 3.6 diameter = 0.89 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 lengte = 4.11 diameter = 1.04 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 1 vargroep = NETWERK_3 lengte = 4.11 diameter = 1.04 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 2 vargroep = NETWERK_4 lengte = 4.11 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 3 vargroep = NETWERK_5 lengte = 4.11 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 4 vargroep = NETWERK_7 lengte = 4.11 diameter = 1.04 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 5 vargroep = NETWERK_8 lengte = 4.11 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 6 vargroep = NETWERK_9 lengte = 4.11 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 8 vargroep = NETWERK_11 lengte = 4.11 diameter = 1.04 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 9 vargroep = NETWERK_12 lengte = 4.11 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 10 vargroep = NETWERK_13 lengte = 4.11 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 11 vargroep = NETWERK_14 lengte = 4.11 diameter = 1.04 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 12 vargroep = NETWERK_15 lengte = 4.11 diameter = 1.04 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 13 vargroep = NETWERK_16 lengte = 4.11 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 14 vargroep = NETWERK_17 lengte = 4.11 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 15 vargroep = NETWERK_18 lengte = 4.11 diameter = 1.04 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 16 vargroep = NETWERK_19 lengte = 4.11 diameter = 1.04 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 17 vargroep = NETWERK_20 lengte = 4.11 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 18 vargroep = NETWERK_21 lengte = 4.11 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 19 vargroep = NETWERK_22 lengte = 4.11 diameter = 1.04 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 20 vargroep = NETWERK_23 lengte = 4.11 diameter = 1.04 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 21 vargroep = NETWERK_24 lengte = 4.11 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW10 van = SYS00010 naar = SYS00012 variant = 22 vargroep = NETWERK_25 lengte = 4.11 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 lengte = 11.58 diameter = 1.04 qmin = -250 qmax = 250 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 1 vargroep = NETWERK_3 lengte = 11.58 diameter = 1.04 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 2 vargroep = NETWERK_4 lengte = 11.58 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 3 vargroep = NETWERK_5 lengte = 11.58 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 4 vargroep = NETWERK_7 lengte = 11.58 diameter = 1.04 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 5 vargroep = NETWERK_8 lengte = 11.58 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 6 vargroep = NETWERK_9 lengte = 11.58 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 11 vargroep = NETWERK_14 lengte = 11.58 diameter = 1.04 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 12 vargroep = NETWERK_15 lengte = 11.58 diameter = 1.04 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 13 vargroep = NETWERK_16 lengte = 11.58 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 14 vargroep = NETWERK_17 lengte = 11.58 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 15 vargroep = NETWERK_18 lengte = 11.58 diameter = 1.04 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 16 vargroep = NETWERK_19 lengte = 11.58 diameter = 1.04 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 17 vargroep = NETWERK_20 lengte = 11.58 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 18 vargroep = NETWERK_21 lengte = 11.58 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 20 vargroep = NETWERK_11 lengte = 11.58 diameter = 1.04 qmin = -1000 qmax = 1000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 21 vargroep = NETWERK_12 lengte = 11.58 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 22 vargroep = NETWERK_13 lengte = 11.58 diameter = 1.04 qmin = -2000 qmax = 2000 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 23 vargroep = NETWERK_22 lengte = 11.58 diameter = 1.04 qmin = -250 qmax = 250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 24 vargroep = NETWERK_23 lengte = 11.58 diameter = 1.04 qmin = -1250 qmax = 1250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 25 vargroep = NETWERK_24 lengte = 11.58 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding HTL_HW11 van = SYS00012 naar = SYS00014 variant = 26 vargroep = NETWERK_25 lengte = 11.58 diameter = 1.04 qmin = -2250 qmax = 2250 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 lengte = 7.5 diameter = 0.58 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 1 vargroep = NETWERK_6 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 2 vargroep = NETWERK_7 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 3 vargroep = NETWERK_8 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 4 vargroep = NETWERK_9 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 5 vargroep = NETWERK_18 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 6 vargroep = NETWERK_19 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 7 vargroep = NETWERK_20 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 8 vargroep = NETWERK_21 lengte = 7.5 diameter = 0.58 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 9 vargroep = NETWERK_10 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 10 vargroep = NETWERK_11 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 11 vargroep = NETWERK_12 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 12 vargroep = NETWERK_13 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 13 vargroep = NETWERK_22 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 14 vargroep = NETWERK_23 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 15 vargroep = NETWERK_24 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding MVL2BP van = W1_004 naar = W1_003 variant = 16 vargroep = NETWERK_25 lengte = 7.5 diameter = 0.58 qmin = -600 qmax = 600 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 status = dicht tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 1 vargroep = NETWERK_2 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 2 vargroep = NETWERK_3 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 3 vargroep = NETWERK_4 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 4 vargroep = NETWERK_5 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 5 vargroep = NETWERK_6 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 6 vargroep = NETWERK_7 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 7 vargroep = NETWERK_8 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 8 vargroep = NETWERK_9 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 9 vargroep = NETWERK_10 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 10 vargroep = NETWERK_11 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 11 vargroep = NETWERK_12 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 12 vargroep = NETWERK_13 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 13 vargroep = NETWERK_14 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 14 vargroep = NETWERK_15 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 15 vargroep = NETWERK_16 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 16 vargroep = NETWERK_17 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 17 vargroep = NETWERK_18 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 18 vargroep = NETWERK_19 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 19 vargroep = NETWERK_20 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 20 vargroep = NETWERK_21 lengte = 40 diameter = 0.89 qmin = -1550 qmax = 1550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 21 vargroep = NETWERK_22 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 22 vargroep = NETWERK_23 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 23 vargroep = NETWERK_24 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding PERWIJN van = W1_001 naar = BAL_H variant = 24 vargroep = NETWERK_25 lengte = 40 diameter = 0.89 qmin = -550 qmax = 550 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W504-01E van = S-5429 naar = VIS-0072 lengte = 1.63 diameter = 0.3 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W504-01F van = VIS-0072 naar = S-5624H lengte = 0.07 diameter = 0.3 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W504-17A van = S-5624H naar = R2_002 lengte = 0.13 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W504-17B van = R2_002 naar = S-5548A lengte = 0.1 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W504-17C van = S-5548A naar = S-2250B lengte = 0.03 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W504-17C xco = -103 -101 yco = -40 -40
+Leiding W505-01A van = S-5429 naar = S-5436 lengte = 0.09 diameter = 0.3 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01B van = S-5436 naar = S-5536A lengte = 0.07 diameter = 0.3 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 lengte = 0.51 diameter = 0.31 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 1 vargroep = NETWERK_10 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 2 vargroep = NETWERK_11 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 3 vargroep = NETWERK_12 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 4 vargroep = NETWERK_13 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 5 vargroep = NETWERK_22 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 6 vargroep = NETWERK_23 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 7 vargroep = NETWERK_24 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01C van = S-5536B naar = S-5537 variant = 8 vargroep = NETWERK_25 lengte = 0.51 diameter = 0.31 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 lengte = 0.06 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 1 vargroep = NETWERK_10 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 2 vargroep = NETWERK_11 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 3 vargroep = NETWERK_12 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 4 vargroep = NETWERK_13 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 5 vargroep = NETWERK_22 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 6 vargroep = NETWERK_23 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 7 vargroep = NETWERK_24 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01D van = S-5537 naar = R3_002 variant = 8 vargroep = NETWERK_25 lengte = 0.06 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D lengte = 0.65 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 1 vargroep = NETWERK_10 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 2 vargroep = NETWERK_11 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 3 vargroep = NETWERK_12 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 4 vargroep = NETWERK_13 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 5 vargroep = NETWERK_22 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 6 vargroep = NETWERK_23 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 7 vargroep = NETWERK_24 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01E van = R3_002 naar = S-5551D variant = 8 vargroep = NETWERK_25 lengte = 0.65 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B lengte = 1.27 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 1 vargroep = NETWERK_10 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 2 vargroep = NETWERK_11 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 3 vargroep = NETWERK_12 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 4 vargroep = NETWERK_13 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 5 vargroep = NETWERK_22 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 6 vargroep = NETWERK_23 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 7 vargroep = NETWERK_24 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01F van = S-5551D naar = S-5620B variant = 8 vargroep = NETWERK_25 lengte = 1.27 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A lengte = 1.48 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 1 vargroep = NETWERK_10 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 2 vargroep = NETWERK_11 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 3 vargroep = NETWERK_12 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 4 vargroep = NETWERK_13 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 5 vargroep = NETWERK_22 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 6 vargroep = NETWERK_23 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 7 vargroep = NETWERK_24 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01G van = S-5620B naar = S-5446A variant = 8 vargroep = NETWERK_25 lengte = 1.48 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 lengte = 0.99 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 1 vargroep = NETWERK_10 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 2 vargroep = NETWERK_11 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 3 vargroep = NETWERK_12 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 4 vargroep = NETWERK_13 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 5 vargroep = NETWERK_22 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 6 vargroep = NETWERK_23 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 7 vargroep = NETWERK_24 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01H van = S-5446A naar = R3_003 variant = 8 vargroep = NETWERK_25 lengte = 0.99 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 lengte = 0.42 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 1 vargroep = NETWERK_10 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 2 vargroep = NETWERK_11 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 3 vargroep = NETWERK_12 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 4 vargroep = NETWERK_13 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 5 vargroep = NETWERK_22 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 6 vargroep = NETWERK_23 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 7 vargroep = NETWERK_24 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01I van = R3_003 naar = S-5439 variant = 8 vargroep = NETWERK_25 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 lengte = 0.79 diameter = 0.3 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 1 vargroep = NETWERK_10 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 2 vargroep = NETWERK_11 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 3 vargroep = NETWERK_12 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 4 vargroep = NETWERK_13 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 5 vargroep = NETWERK_22 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 6 vargroep = NETWERK_23 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 7 vargroep = NETWERK_24 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01J van = S-5439 naar = R3_004 variant = 8 vargroep = NETWERK_25 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B lengte = 0.42 diameter = 0.3 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 1 vargroep = NETWERK_10 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 2 vargroep = NETWERK_11 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 3 vargroep = NETWERK_12 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 4 vargroep = NETWERK_13 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 5 vargroep = NETWERK_22 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 6 vargroep = NETWERK_23 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 7 vargroep = NETWERK_24 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W505-01K van = R3_004 naar = S-5564B variant = 8 vargroep = NETWERK_25 lengte = 0.42 diameter = 0.3 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01! van = S-5653 naar = S-2018 lengte = 2.23 diameter = 0.31 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01* van = S-5652 naar = S-5653 lengte = 1.26 diameter = 0.31 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01A van = S-5536 naar = S-5537A lengte = 0.47 diameter = 0.39 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-01A xco = -88 -117 yco = -57 -57
+Leiding W537-01B van = S-5537A naar = S-5677C lengte = 0.26 diameter = 0.39 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-01B xco = -120 yco = -57
+Leiding W537-01D van = S-5677A naar = S-5677B lengte = 0.27 diameter = 0.44 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01E van = S-5677B naar = S-5677C lengte = 0.07 diameter = 0.59 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01F van = S-5677C naar = S-5538 lengte = 0.2 diameter = 0.39 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01G van = S-5538 naar = S-5551A lengte = 0.58 diameter = 0.39 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01H van = S-5551A naar = R1_001 lengte = 1.26 diameter = 0.39 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01I van = R1_001 naar = R1_002 lengte = 0.72 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01J van = R1_002 naar = R1_003 lengte = 0.76 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01K van = R1_003 naar = S-5539 lengte = 1.44 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-01K xco = -137 yco = -57
+Leiding W537-01M van = S-5560 naar = R2_004 lengte = 0.59 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01O van = R2_004 naar = S-5549A lengte = 1.62 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01P van = S-5549A naar = S-5542B lengte = 0.78 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01Q van = S-5542B naar = S-5543A lengte = 0.76 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01R van = S-5543A naar = R2_005 lengte = 1.14 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01S van = R2_005 naar = VIS-0259 lengte = 1.04 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01T van = VIS-0259 naar = S-5559 lengte = 1.01 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01U van = S-5559 naar = S-5545A lengte = 0.45 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01V van = S-5545A naar = R2_006 lengte = 0.92 diameter = 0.31 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01W van = R2_006 naar = S-5611 lengte = 2.7 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01X van = S-5611 naar = S-5662B lengte = 1.53 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01Y van = S-5662B naar = S-5652 lengte = 0.91 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-01Z van = S-5662B naar = S-5662A lengte = 0.6 diameter = 0.31 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-02A van = S-5624D naar = S-5574 lengte = 1.52 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-02B van = S-5574 naar = S-5621 lengte = 0.07 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-02C van = S-5621 naar = S-5536B lengte = 0.23 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-02C xco = -112 yco = -45
+Leiding W537-10A van = S-5560 naar = S-5665 lengte = 0.04 diameter = 0.31 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-10B van = S-5665 naar = S-5561B lengte = 0.02 diameter = 0.31 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 lengte = 0.02 diameter = 0.21 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 1 vargroep = NETWERK_10 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 2 vargroep = NETWERK_11 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 3 vargroep = NETWERK_12 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 4 vargroep = NETWERK_13 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 5 vargroep = NETWERK_22 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 6 vargroep = NETWERK_23 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 7 vargroep = NETWERK_24 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12A van = SYS00002 naar = R3_005 variant = 8 vargroep = NETWERK_25 lengte = 0.02 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B lengte = 0.26 diameter = 0.21 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 1 vargroep = NETWERK_10 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 2 vargroep = NETWERK_11 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 3 vargroep = NETWERK_12 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 4 vargroep = NETWERK_13 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 5 vargroep = NETWERK_22 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 6 vargroep = NETWERK_23 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 7 vargroep = NETWERK_24 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-12B van = R3_005 naar = S-5564B variant = 8 vargroep = NETWERK_25 lengte = 0.26 diameter = 0.21 qmin = -200 qmax = 200 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-12B xco = -164 yco = -42
+Leiding W537-25A van = S-5624C naar = S-5547B lengte = 0.15 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-25A xco = -94 yco = -40
+Leiding W537-25B van = S-5547B naar = S-5548B lengte = 0.05 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-25C van = S-5548B naar = S-2250B lengte = 0.02 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-44A van = P230 naar = S-5639 lengte = 1.64 diameter = 0.59 qmin = -350 qmax = 350 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-44A xco = -91 yco = -40
+Leiding W537-44B van = S-5639 naar = S-5536 lengte = 0.16 diameter = 0.59 qmin = -350 qmax = 350 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-46A van = S-5537C naar = S-5645B lengte = 0.51 diameter = 0.21 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-46B van = S-5645B naar = R2_003 lengte = 0.18 diameter = 0.21 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-47A van = S-5536A naar = S-5629 lengte = 0.07 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-47B van = S-5629 naar = S-5630 lengte = 0.43 diameter = 0.16 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-47C van = S-5630 naar = S-5537C lengte = 0.14 diameter = 0.31 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-50A van = S-5536C naar = R3_001 lengte = 2.16 diameter = 0.21 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-59A van = S-5635A naar = S-5649 lengte = 0.18 diameter = 0.31 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-59B van = S-5649 naar = S-5651 lengte = 0.63 diameter = 0.31 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-59C van = S-5651 naar = S-6454 lengte = 0.41 diameter = 0.31 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-59D van = S-6454 naar = R2_001 lengte = 0.09 diameter = 0.31 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-60A van = S-5652 naar = S-5626 lengte = 0.53 diameter = 0.21 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-60B van = S-5626 naar = R2_007 lengte = 0.31 diameter = 0.21 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-62 van = S-5536 naar = S-5635A lengte = 2.19 diameter = 0.39 qmin = -150 qmax = 150 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-72A van = S-5545B naar = R1_005 lengte = 0.81 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-91 van = S-5629 naar = S-5630 lengte = 0.42 diameter = 0.16 qmin = -2.5 qmax = 2.5 tarplus = 100 tarmin = 100 boete = 1000
+Elempunt W537-91 xco = -114 -117 yco = -39 -39
+Leiding W537-92A van = S-5539 naar = S-5566 lengte = 0.78 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-92B van = S-5566 naar = R1_004 lengte = 0.39 diameter = 0.39 qmin = -100 qmax = 100 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-92C van = R1_004 naar = VIS0546A lengte = 0.004 diameter = 0.39 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W537-92D van = VIS0546B naar = S-6466 lengte = 3.37 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W544-01D van = S-6466 naar = P-0439 lengte = 0.18 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W544-01E van = P-0439 naar = P-0650 lengte = 0.29 diameter = 0.2 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W544-01F van = P-0650 naar = P-0651 lengte = 3.51 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Leiding W544-01G van = P-0651 naar = S-5545B lengte = 0.49 diameter = 0.31 qmin = -50 qmax = 50 tarplus = 100 tarmin = 100 boete = 1000
+Mengreduceer M130 van = S-113C naar = S-5624D qmax = 125 boete = 1000 tarief = 100
+Mengreduceer M230 van = S-113C naar = P230 qmax = 325 boete = 1000 tarief = 100
+Punt BAL_H x = -75 y = -31
+Punt BAL_M x = -56 y = -74
+Punt EUR x = -87 y = -77
+Punt H_001 x = -87 y = -78
+Punt H_002 x = -95 y = -74
+Punt H_003 x = -95 y = -73
+Punt H_004 x = -116 y = -87
+Punt H_005 x = -117 y = -92
+Punt H_006 x = -164 y = -81
+Punt H_007 x = -178 y = -81
+Punt H_008 x = -208 y = -79
+Punt H_009 x = -208 y = -86
+Punt HW_001 x = -87 y = -94
+Punt HW_002 x = -95 y = -94
+Punt HW_003 x = -96 y = -94
+Punt HW_004 x = -116 y = -94
+Punt HW_005 x = -118 y = -94
+Punt HW_006 x = -166 y = -94
+Punt HW_007 x = -195 y = -94
+Punt P-0439 x = -158 y = -57
+Punt P-0650 x = -159 y = -57
+Punt P-0651 x = -160 y = -57
+Punt P230 x = -92 y = -40
+Punt R1_001 x = -124 y = -57
+Punt R1_002 x = -125 y = -57
+Punt R1_003 x = -135 y = -57
+Punt R1_004 x = -152 y = -57
+Punt R1_005 x = -164 y = -57
+Punt R2_001 x = -76 y = -40
+Punt R2_002 x = -106 y = -40
+Punt R2_003 x = -122 y = -40
+Punt R2_004 x = -173 y = -42
+Punt R2_005 x = -188 y = -42
+Punt R2_006 x = -201 y = -42
+Punt R2_007 x = -213 y = -42
+Punt R3_001 x = -83 y = -42
+Punt R3_002 x = -120 y = -42
+Punt R3_003 x = -138 y = -42
+Punt R3_004 x = -158 y = -42
+Punt R3_005 x = -166 y = -42
+Punt S-021 x = -199 y = -86
+Punt S-025 x = -201 y = -86
+Punt S-113A x = -120 y = -65
+Punt S-113C x = -123 y = -65
+Punt S-243 x = -59 y = -74
+Punt S-303 x = -87 y = -74
+Punt S-488B x = -62 y = -74
+Punt S-489B x = -178 y = -79
+Punt S-558 x = -71 y = -74
+Punt S-677A x = -205 y = -86
+Punt S-678A x = -117 y = -80
+Punt S-678B x = -122 y = -68
+Punt S-686B x = -195 y = -86
+Punt S-686C x = -195 y = -79
+Punt S-731 x = -65 y = -74
+Punt S-797 x = -203 y = -86
+Punt S-826B x = -95 y = -80
+Punt S-852 x = -206 y = -79
+Punt S-861A x = -117 y = -82
+Punt S-862 x = -117 y = -89
+Punt S-868 x = -167 y = -84
+Punt S-875 x = -202 y = -79
+Punt S-877 x = -164 y = -83
+Punt S-879A x = -117 y = -88
+Punt S-884 x = -117 y = -91
+Punt S-885 x = -117 y = -90
+Punt S-888 x = -117 y = -87
+Punt S-2018 x = -208 y = -45
+Punt S-2250B x = -98 y = -40
+Punt S-5429 x = -110 y = -40
+Punt S-5436 x = -111 y = -40
+Punt S-5439 x = -141 y = -42
+Punt S-5446A x = -133 y = -42
+Punt S-5536 x = -87 y = -40
+Punt S-5536A x = -113 y = -40
+Punt S-5536B x = -113 y = -42
+Punt S-5536C x = -87 y = -42
+Punt S-5537 x = -118 y = -42
+Punt S-5537A x = -119 y = -57
+Punt S-5537C x = -119 y = -40
+Punt S-5538 x = -122 y = -57
+Punt S-5539 x = -145 y = -57
+Punt S-5542B x = -179 y = -42
+Punt S-5543A x = -182 y = -42
+Punt S-5545A x = -198 y = -42
+Punt S-5545B x = -162 y = -57
+Punt S-5547B x = -95 y = -40
+Punt S-5548A x = -105 y = -40
+Punt S-5548B x = -96 y = -40
+Punt S-5549A x = -175 y = -42
+Punt S-5551A x = -123 y = -57
+Punt S-5551D x = -124 y = -42
+Punt S-5559 x = -195 y = -42
+Punt S-5560 x = -171 y = -42
+Punt S-5561B x = -168 y = -42
+Punt S-5564B x = -162 y = -42
+Punt S-5566 x = -149 y = -57
+Punt S-5574 x = -112 y = -49
+Punt S-5611 x = -204 y = -42
+Punt S-5620B x = -128 y = -42
+Punt S-5621 x = -112 y = -47
+Punt S-5624C x = -93 y = -40
+Punt S-5624D x = -112 y = -52
+Punt S-5624H x = -107 y = -40
+Punt S-5626 x = -210 y = -42
+Punt S-5629 x = -114 y = -40
+Punt S-5630 x = -117 y = -40
+Punt S-5635A x = -83 y = -40
+Punt S-5639 x = -89 y = -40
+Punt S-5645B x = -120 y = -40
+Punt S-5649 x = -81 y = -40
+Punt S-5651 x = -79 y = -40
+Punt S-5652 x = -208 y = -42
+Punt S-5653 x = -208 y = -44
+Punt S-5662A x = -206 y = -45
+Punt S-5662B x = -206 y = -42
+Punt S-5665 x = -170 y = -42
+Punt S-5677A x = -121 y = -59
+Punt S-5677B x = -121 y = -58
+Punt S-5677C x = -121 y = -57
+Punt S-6454 x = -77 y = -40
+Punt S-6466 x = -157 y = -57
+Punt SYS00002 x = -167 y = -42
+Punt SYS00006 x = -112 y = -94
+Punt SYS00007 x = -71 y = -94
+Punt SYS00008 x = -65 y = -94
+Punt SYS00010 x = -62 y = -94
+Punt SYS00012 x = -59 y = -94
+Punt SYS00014 x = -56 y = -94
+Punt VIS-0072 x = -108 y = -40
+Punt VIS-0123 x = -117 y = -86
+Punt VIS-0237 x = -167 y = -86
+Punt VIS-0245 x = -164 y = -84
+Punt VIS-0259 x = -192 y = -42
+Punt VIS-0452 x = -204 y = -79
+Punt VIS0546A x = -154 y = -57
+Punt VIS0546B x = -156 y = -57
+Punt W1_001 x = -149 y = -31
+Punt W1_002 x = -171 y = -31
+Punt W1_003 x = -191 y = -31
+Punt W1_004 x = -213 y = -31
+Reduceer R050 van = S-686B naar = S-686C
+Reduceer RSKVOPLA van = S-113A naar = S-113C status = open
+Tempprof GEMJAAR zondag 4
+ Temperaturen
+ -2.8 -1.8 -5.1 -2.1 -3.7 -4.8 -4.5 -2.2 -1.2 0.3 -0.7 -1.3 -4.1 -2.8 -3.1 -0.6
+ 2 1.9 1.9 2.6 1.9 2.8 1.9 -1.2 0.4 0.6 2.4 4.9 6 4.9 -0.7 -3.1
+ -1 -0.9 -1.6 -0.1 -3.1 -5.6 -4.7 -1.9 -0.1 0.4 -4 -3.6 -4.2 -4.4 -1.8 -0.1
+ 4.3 4.6 3.3 3.8 5.7 5 5.9 5.8 4.8 3.6 1.4 5 2.7 0.5 0.5 2.5
+ 2.1 0.4 -3.6 -4.9 -3.1 -0.6 2.2 2.7 3.9 4.3 5.9 7.7 5.9 7 7.7 8.8
+ 8.2 5.3 5.3 5.1 6.6 5.5 5.6 2.9 2.8 4.6 5.7 4.7 1.8 0.9 3.6 2.6
+ 5 5.8 7.6 11.2 11.6 10 11 13.6 13.9 4.9 3.3 4.1 6.1 6.2 6.9 7.5
+ 7.6 6 5.6 5.7 5 4.9 5.9 4 5.9 8 9.4 11.5 13 15.2 12.3 10.6
+ 12.5 9.3 10.6 9.1 9.9 9 9.1 10.4 8.5 5.7 5.6 6.6 8.7 14 14.9 14
+ 9.6 9.2 10.5 17.7 17 12.6 11.2 11.8 12.8 14.5 16.1 16.6 12.3 11.7 14.9 12.9
+ 12 11.1 12 13.3 9.8 10.5 12.1 13.9 15.5 19.4 16.9 13 13 11.8 13.5 11.8
+ 13.1 11 9.6 10.2 10 10.5 11.7 13.4 15.5 19 15.5 14.7 12.6 14 13.1 13.2
+ 12.8 14.6 14.5 15.3 18.8 18.6 22.3 22.6 23.9 22.8 18 17.4 16.8 14.4 13.5 13.3
+ 14.8 15.1 13.9 14.2 14.6 13.9 14.9 18.2 21.2 21.9 19.8 16.4 15.7 14.5 14.6 15.5
+ 16.4 18.1 19.1 14.2 12.3 15.5 14.7 13 13 12.8 12.7 12.3 14.2 15.3 14.3 14.9
+ 13.6 14.1 12.8 13.1 14.1 11.8 10 11.4 13.2 15 16.1 17.4 15.6 13.1 12 14.2
+ 16.3 13.1 10.6 11.4 12.6 13 13.3 13.3 12.3 14 12.4 8.6 9.7 11.3 8.6 7.9
+ 9.2 9.7 12.5 7.7 6 7.2 8 10.3 9.9 7.4 6.8 6.7 9 7.9 8.5 6.1
+ 7.1 9.5 6.9 7.6 6.8 4.5 6.2 6.4 6.2 10.5 12.7 13.5 11.7 9.8 8.3 10.3
+ 7.7 4.8 4.4 7.7 6 5.3 5.6 5.9 4.4 2.9 1.8 3.2 2 1.3 1.2 2
+ 2.1 3 5.6 5.1 3.8 2 2.5 2.9 1.3 3.9 7.4 6.9 5.2 4.4 3.5 6.1
+ 4.7 2.1 1.8 5.3 4.1 2.2 2 3.5 3 2.3 6.3 8.3 4.6 0.9 2.2 1.1
+ -0.1 -0.3 -2.3 -4.6 -3.5 -1.1 -2.1 0.1 0.1 1.6 -0.3 -4.1 -5
+Case BASISNETWERK dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ omschrijving 'Geen investeringen, huidige netwerk'
+Case NETWERK1 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ omschrijving 'Geen investeringen, huidige netwerk'
+Case NETWERK2 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_2 1
+ omschrijving 'Netwerk 2 uit spreadsheet'
+Case NETWERK3 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_3 1
+ omschrijving 'Netwerk 3 uit spreadsheet'
+Case NETWERK4 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_4 1
+ omschrijving 'Netwerk 4 uit spreadsheet'
+Case NETWERK5 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_5 1
+ omschrijving 'Netwerk 5 uit spreadsheet'
+Case NETWERK6 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_6 1
+ omschrijving 'Netwerk 6 uit spreadsheet'
+Case NETWERK7 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_7 1
+ omschrijving 'Netwerk 7 uit spreadsheet'
+Case NETWERK8 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_8 1
+ omschrijving 'Netwerk 8 uit spreadsheet'
+Case NETWERK9 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_9 1
+ omschrijving 'Netwerk 9 uit spreadsheet'
+Case NETWERK10 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_10 1
+ omschrijving 'Netwerk 10 uit spreadsheet'
+Case NETWERK11 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_11 1
+ omschrijving 'Netwerk 11 uit spreadsheet'
+Case NETWERK12 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_12 1
+ omschrijving 'Netwerk 12 uit spreadsheet'
+Case NETWERK13 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_13 1
+ omschrijving 'Netwerk 13 uit spreadsheet'
+Case NETWERK14 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_14 1
+ omschrijving 'Netwerk 14 uit spreadsheet'
+Case NETWERK15 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_15 1
+ omschrijving 'Netwerk 15 uit spreadsheet'
+Case NETWERK16 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_16 1
+ omschrijving 'Netwerk 16 uit spreadsheet'
+Case NETWERK17 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_17 1
+ omschrijving 'Netwerk 17 uit spreadsheet'
+Case NETWERK18 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_18 1
+ omschrijving 'Netwerk 18 uit spreadsheet'
+Case NETWERK19 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_19 1
+ omschrijving 'Netwerk 19 uit spreadsheet'
+Case NETWERK20 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_20 1
+ omschrijving 'Netwerk 20 uit spreadsheet'
+Case NETWERK21 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_21 1
+ omschrijving 'Netwerk 21 uit spreadsheet'
+Case NETWERK22 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_22 1
+ omschrijving 'Netwerk 22 uit spreadsheet'
+Case NETWERK23 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_23 1
+ omschrijving 'Netwerk 23 uit spreadsheet'
+Case NETWERK24 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_24 1
+ omschrijving 'Netwerk 24 uit spreadsheet'
+Case NETWERK25 dagmaand = 15 dag = werkdag uur = 99 dagtemp = -17 pmin = 0 pmax = 200 derving = druk
+ vargroep NETWERK_25 1
+ omschrijving 'Netwerk 25 uit spreadsheet'
+Rekenoptie druk = nee isoterm = nee matrix = nee vvv = nee energrenzen = nee btg = nee EnergyUnitMW = ja
+ ruwheid = 12 dpin = 0.9 dpuit = 0.5 eta = 0.81 hv = 36 dens = 0.645
+ prio = 1 gastemp = 7 co2 = 0.89 x = 81 y = 0 weekendf = 1 hoogte = 1
+ maxabsfo = 1E-5 maxrelfo = 0.05 basiseflow = 36 test = be
+Einde
